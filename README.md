@@ -12,7 +12,7 @@
 - 🛸 Avid reader of sci-fi novels and DC Comics enthusiast
 - 🐈 Proud cat dad and owner!
 
-### Let's Connect! [<img align="left" alt="Adammonast | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Let's Connect! [<img alt="Adammonast | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools:
 
