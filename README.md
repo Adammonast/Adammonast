@@ -32,7 +32,9 @@
 
 ---
 
-### GitHub Acti
+### GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adammonast&theme=vision-friendly-dark&hide=tsql,html)](https://github.com/Adammonast/github-readme-stats)
+[![Ana's github stats](https://github-readme-stats.vercel.app/api?username=Adammonast&show_icons=true&theme=vision-friendly-dark)](https://github.com/Adammonast/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/adam-monast/
 [github]: https://github.com/Adammonast
