@@ -4,7 +4,7 @@
 
 - 🧑🏽‍💻 My favorite tech stacks include JavaScript and React
 - 📚 I am currently learning AngularJS and TypeScript
-- 📖 Avid reader of sci-fi novels and DC Comics enthusiast
+- 🛸 Avid reader of sci-fi novels and DC Comics enthusiast
 - 🐈 Proud cat dad and owner!
 
 ### Connect with me:
