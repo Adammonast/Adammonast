@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="Adammonast's Github Stats" src="https://github-readme-stats.Adammonast.vercel.app/api?username=Adammonast&show_icons=true&hide_border=true" />
+[![Adam's github stats](https://github-readme-stats.vercel.app/api?username=Adammonast&show_icons=true&theme=vision-friendly-dark)](https://github.com/Adammonast/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adammonast&theme=vision-friendly-dark&hide=tsql,html)](https://github.com/Adammonast/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/adam-monast/
