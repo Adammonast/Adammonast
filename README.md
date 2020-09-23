@@ -1,7 +1,8 @@
-<img src=https://user-images.githubusercontent.com/57102880/94073312-45d20d80-fdc5-11ea-8cb0-0e67f3fbd6af.png width="850" height="450">
+<img src=https://user-images.githubusercontent.com/57102880/94073312-45d20d80-fdc5-11ea-8cb0-0e67f3fbd6af.png width="650" height="350">
 
 <h2 align="center"> Hello, My Name is Adam! <span>&#128075;&#127997;</span></h2>
 <p> My name is Adam Monast and I am a full stack web developer currently seeking job opportunities for Front-end/Full Stack JavaScript development. I am a recent graduate of <a href="https://lambdaschool.com/" target="_blank">Lambda School</a> and have 1 year of experience with popular frameworks and libraries including: HTML, CSS, JavaScript, Python, LESS/SASS, Bootstrap, React, Redux, React-Router, Node, Express, PostgreSQL, SQLite3,and Heroku. Going through Lambda Schools curriculum I have had to overcome many obstacles and step out of my comfort zone to find innovative ways for creative problem solving. </p>
+<h3 align="center">Let's Connect! <img align="left" alt="Adammonast | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></h3>
 
 ---
 
@@ -11,10 +12,6 @@
 - 📚 I am currently learning AngularJS and TypeScript
 - 🛸 Avid reader of sci-fi novels and DC Comics enthusiast
 - 🐈 Proud cat dad and owner!
-
-### Connect with me:
-
-[<img align="left" alt="Adammonast | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -34,6 +31,8 @@
 <br />
 
 ---
+
+### GitHub Acti
 
 [linkedin]: https://www.linkedin.com/in/adam-monast/
 [github]: https://github.com/Adammonast
