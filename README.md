@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm Adam 👋🏽
 
 ## I'm a Full Stack Web Developer currently seeking new employment opportunities!
