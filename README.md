@@ -26,11 +26,9 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
 
 <br />
-<br />
 
 ---
 
-### GitHub Stats
 [![Adam's github stats](https://github-readme-stats.vercel.app/api?username=Adammonast&show_icons=true&theme=vision-friendly-dark)](https://github.com/Adammonast/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adammonast&theme=vision-friendly-dark&hide=tsql,html)](https://github.com/Adammonast/github-readme-stats)
 
