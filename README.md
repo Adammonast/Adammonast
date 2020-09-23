@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/57102880/94072138-22a65e80-fdc3-11ea-9bf2-e314b8b3f19f.png =100x20)
+![image](https://user-images.githubusercontent.com/57102880/94072138-22a65e80-fdc3-11ea-9bf2-e314b8b3f19f.png){:height="50px" width="50px"}
 
 ### Hi there, I'm Adam 👋🏽
 
