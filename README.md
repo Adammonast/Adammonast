@@ -1,6 +1,7 @@
 ### Hi there, I'm Adam 👋🏽
 
 ![image](https://user-images.githubusercontent.com/57102880/94070988-2638e600-fdc1-11ea-85bd-d400cbd08132.png)
+![image](https://user-images.githubusercontent.com/57102880/94071513-0655f200-fdc2-11ea-82c2-46b79f525267.png)
 
 ## I'm a Full Stack Web Developer currently seeking new employment opportunities!
 
