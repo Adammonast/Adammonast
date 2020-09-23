@@ -1,8 +1,6 @@
-### Hi there, I'm Adam 👋🏽
-
 ![image](https://user-images.githubusercontent.com/57102880/94070988-2638e600-fdc1-11ea-85bd-d400cbd08132.png)
 
-## I'm a Full Stack Web Developer currently seeking new employment opportunities!
+### Hi there, I'm Adam 👋🏽
 
 - 🧑🏽‍💻 My favorite tech stacks include JavaScript and React
 - 📚 I am currently learning AngularJS and TypeScript
